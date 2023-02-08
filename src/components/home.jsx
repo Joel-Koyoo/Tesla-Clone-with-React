@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 import Section from "./section";
+import Header from "./header";
 
 const Home = () => {
   return (
